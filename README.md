@@ -8,9 +8,11 @@ Random numbers of 'rabbits' are generated to represent values of opreands in the
 * Type in operands and outcome in the text boxes
 * Click 'Check!'
 * Practice a new addition if their answers are correct or re-do the problem otherwise
+![v1](images/v1.png)
 ### Version 2
 * Select the number in given options
 * Click 'Check!'
 * Practice a new addition if their answers are correct or re-do the problem otherwise
+![v2](images/v2.png)
 
 
